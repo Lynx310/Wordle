@@ -92,3 +92,9 @@ hr {
    justify-content: center;
    align-items: center;
 }
+
+   .bottom-right{
+      position: absolute;
+      bottom: 1.9%;
+      right: 1.7%;
+       }
